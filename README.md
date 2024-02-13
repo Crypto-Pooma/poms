@@ -1,2 +1,2 @@
-# poms examples
+# poms samples
 jar files
